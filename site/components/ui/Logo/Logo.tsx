@@ -1,14 +1,13 @@
 const Logo = ({ className = '', ...props }) => (
 <svg 
-width="32" 
-height="32" 
-viewBox="0 0 32 32"
- version="1.1" 
- xmlns="http://www.w3.org/2000/svg" 
- xmlns:xlink="http://www.w3.org/1999/xlink" 
-className={className}
-{...props}
->
+  width="32" 
+  height="32" 
+  viewBox="0 0 32 32"
+  version="1.1" 
+  xmlns="http://www.w3.org/2000/svg" 
+  className={className}
+  {...props}
+  >
 
    <rect width="100%" height="100%" rx="16" fill="var(--secondary)" />
     <g transform="matrix(1,0,0,1,-210,-210)">
@@ -29,6 +28,6 @@ className={className}
         </g>
     </g>
 </svg>
-))
+)
 
 export default Logo
