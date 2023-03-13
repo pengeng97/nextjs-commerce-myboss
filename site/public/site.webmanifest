@@ -1,7 +1,7 @@
 {
-  "name": "My Boss Wheels ",
-  "short_name": "My Boss Wheels Online Store",
-  "description": "My Boss Wheels -> https://www.mybosswheels.com.my",
+  "name": "MYBOSSWHEELS ",
+  "short_name": "MYBOSSWHEELS Online Store",
+  "description": "MYBOSSWHEELS -> https://www.mybosswheels.com.my",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#fff",
