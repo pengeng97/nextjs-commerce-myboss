@@ -1,25 +1,20 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
+  "title": "MYBOSWHEELS | Online Store",
   "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "description": "MYBOSWHEELS - https://www.mybosswheels.com.my",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "MYBOSWHEELS | Online Store",
+    "description": "MYBOSWHEELS - https://www.mybosswheels.com.my",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://www.mybosswheels.com.my",
+    "site_name": "MYBOSWHEELS Online Store",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "MYBOSWHEELS | Onlione Store"
       }
     ]
-  },
-  "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
-    "cardType": "summary_large_image"
   }
 }
