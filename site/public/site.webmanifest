@@ -1,7 +1,7 @@
 {
-  "name": "Next.js Commerce",
-  "short_name": "Next.js Commerce",
-  "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
+  "name": "My Boss Wheels ",
+  "short_name": "My Boss Wheels Online Store",
+  "description": "My Boss Wheels -> https://www.mybosswheels.com.my",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#fff",
