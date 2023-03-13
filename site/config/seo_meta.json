@@ -1,20 +1,25 @@
 {
-  "title": "MYBOSWHEELS | Online Store",
+  "title": "MYBOSSWHEELS | Online Store",
   "titleTemplate": "%s - ACME Storefront",
-  "description": "MYBOSWHEELS - https://www.mybosswheels.com.my",
+  "description": "MYBOSSWHEELS - https://www.mybosswheels.com.my",
   "openGraph": {
-    "title": "MYBOSWHEELS | Online Store",
-    "description": "MYBOSWHEELS - https://www.mybosswheels.com.my",
+    "title": "MYBOSSWHEELS | Online Store",
+    "description": "Next.js Commerce - https://www.mybosswheels.com.my",
     "type": "website",
     "url": "https://www.mybosswheels.com.my",
-    "site_name": "MYBOSWHEELS Online Store",
+    "site_name": "MYBOSSWHEELS",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "MYBOSWHEELS | Onlione Store"
+        "alt": "MYBOSSWHEELS | ONLINE STORE"
       }
     ]
+  },
+  "twitter": {
+    "handle": "@nextjs",
+    "site": "@nextjs",
+    "cardType": "summary_large_image"
   }
 }
